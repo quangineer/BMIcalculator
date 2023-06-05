@@ -1,0 +1,16 @@
+{
+  "name": "bmicalculator",
+  "version": "1.0.0",
+  "description": "develop back-end and tweak front-end a little bit to have a interactive interface for user entering input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QUAN",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
